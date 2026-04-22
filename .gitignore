@@ -1,0 +1,15 @@
+# Agentic tools & AI state
+.agents/
+.agent/
+.gemini/
+.antigravity/
+skills-lock.json
+
+# Project specific sensitive data
+fitpair/.env
+fitpair/.env.local
+fitpair/.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
